@@ -1,0 +1,1 @@
+Sonlarni Spiral ko'rishida chiqarish
