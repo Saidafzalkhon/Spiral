@@ -1,3 +1,4 @@
+// Sonlarni spiral ko'rinishida chiqarish
 #include<stdio.h>
 int main(){
 int n,a,b,c,d,k = 1;
